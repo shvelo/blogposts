@@ -1,0 +1,2 @@
+# blogposts
+Standalone blog posts
